@@ -2,6 +2,8 @@
 
 Welcome! This workshop is intended to provide a basic overview of both the Linux command line and how to set up and use Git. They may seem a little complicated now, but both are very widely used in software and data science, and learning how to use them will be extremely crucial skills. Let's get started!
 
+Added a new line
+
 ## Initial setup
 
 There are a few prerequisites needed for this workshop, so let's take care of those first. I've outlined platform-specific steps, and we'll reserve a chunk of time for people to complete those tasks on their individual machines.
@@ -14,7 +16,7 @@ Most of this workshop assumes usage of a Unix-like terminal. People using Mac or
 
 A tip: when performing initial Ubuntu setup, you will be prompted for a password for your Linux user account. This _isn't_ related to your Windows password, and isn't especially security-sensitive, so use something simple and easy to remember! You _will_ need to use this password fairly frequently.
 
-### MacOS - XX
+### MacOS - 
 
 MacOS ships with a Linux terminal out of the box, which is great! Unfortunately, Apple ships some out-of-date tools (particularly `git`), so you'll want to update them before proceeding.
 
