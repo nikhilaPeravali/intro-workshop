@@ -14,7 +14,7 @@ Most of this workshop assumes usage of a Unix-like terminal. People using Mac or
 
 A tip: when performing initial Ubuntu setup, you will be prompted for a password for your Linux user account. This _isn't_ related to your Windows password, and isn't especially security-sensitive, so use something simple and easy to remember! You _will_ need to use this password fairly frequently.
 
-### MacOS
+### MacOS - XX
 
 MacOS ships with a Linux terminal out of the box, which is great! Unfortunately, Apple ships some out-of-date tools (particularly `git`), so you'll want to update them before proceeding.
 
